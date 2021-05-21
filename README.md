@@ -1,6 +1,7 @@
 # Sentiment Analysis
 Project Implementation
 
+### Objective - To find correlation between financial news of the given stock & it's price change using Sentiment Analysis
 
 #### Phase 1 – Parse & Extract data
 1. Parse data of chosen tickers from Finviz using BeautifulSoup
@@ -36,7 +37,9 @@ Project Implementation
 		Historical download	Yfinance
 		Visualize Data		Matplotlib
 
- ### Output Images
+### Inference - Most of the stock prices are not much affected by the release of specific news. Exception being Tesla. The daily change in prices of Tesla has shown perfect correlation to the news.
+
+### Output Images
  
  #### Compound Scores Bar Chart
  ![download (2)](https://user-images.githubusercontent.com/78731243/119055330-7b77d680-b9e6-11eb-9d8e-f5c28cbb1563.png)
