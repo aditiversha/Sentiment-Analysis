@@ -44,6 +44,6 @@ Project Implementation
  #### Compound Scores Bar Chart
  ![download (2)](https://user-images.githubusercontent.com/78731243/119055330-7b77d680-b9e6-11eb-9d8e-f5c28cbb1563.png)
 
-#### Correlation Scores (Compound vs Daily Retuens)
+#### Correlation Scores (Compound vs Daily Returns)
 ![Capture](https://user-images.githubusercontent.com/78731243/119055560-e5907b80-b9e6-11eb-83ea-38d782479ccf.PNG)
 
